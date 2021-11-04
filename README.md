@@ -10,13 +10,16 @@ Released under [MIT](/LICENSE) by [@noranekoit](https://github.com/noranekoit)
 
 ## Description 
 
+## How Use
+- Run Xampp Apache and MySQL
+- Import Database
 ## Our Team
 
 - [Yehezkiel ermanto](https://github.com/yehezkielermanto)
 - [Hanna Pratiwi](https://github.com/noranekoit) 
 - [Antonius Bun Wijaya](https://github.com/hannapratiwi)
 
-## Teknology
+## Technology
 - PHP Languages
 - Boostrap 
 - Maria DB
